@@ -31,3 +31,5 @@ A demultiplexer takes an input and uses a selector to choose what output it shou
 
 ### What other uses might these circuits have? (Think Shannon’s)
 
+They can be used for data routing and basic conditional function statements.
+
