@@ -20,6 +20,7 @@ Erick Beltran and
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
+
 A multiplexer takes many inputs and 
 
 ### In plain English describe the function and use of a demultiplexer.
